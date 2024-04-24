@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Airflow_Tutorial", "Airflow_Tutorial\Airflow_Tutorial.pyproj", "{21A968A4-AA2B-4581-87B3-E8EF0A09F27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A968A4-AA2B-4581-87B3-E8EF0A09F27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A968A4-AA2B-4581-87B3-E8EF0A09F27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F65AC779-E8D0-4259-BAF3-B0004CAD7E20}
+	EndGlobalSection
+EndGlobal
